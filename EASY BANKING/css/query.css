@@ -1,0 +1,10 @@
+@media (min-width: 376px) {
+    body {
+        text-align: left;
+    }
+    .navbar {
+        padding: 20px 150px;
+        display: flex;
+    }
+    
+}
